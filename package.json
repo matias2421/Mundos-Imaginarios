@@ -1,0 +1,15 @@
+{
+  "name": "mundos-ia",
+  "version": "1.0.0",
+  "description": "Programa de consola que genera bocetos visuales de mundos imaginarios usando APIs gratuitas de texto e imagen",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": ["ia", "imagenes", "mundos-imaginarios", "node", "fetch"],
+  "author": "Matias Agudelo",
+  "license": "ISC",
+  "dependencies": {
+    "object-hash": "^3.0.0"
+  }
+}
